@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-
 export default function Navbar() {
   return (
     <div>
@@ -28,13 +27,15 @@ export default function Navbar() {
               <a href="/">Home</a>
             </div>
           </div>
-          <div className="flex flex-row brightness-50"s>
-          <img
-            className="w-[100px] -translate-y-12 ml-32 "
-            src="https://res.cloudinary.com/dd4d48hwn/image/upload/v1674378986/360_F_363314304_O8iAzlMbUHy3HvRtdReqaxXR0aw279CM_qp9q8u.jpg"
-          />
-          <div className="text-white ml-4 text-2xl font-bold -translate-y-6 hover:text-pink-500 transition ease-in-out delay-150  hover:-translate-y-9  duration-300">MEHMET ASLANTAŞ</div></div>
-       
+          <div className="flex flex-row brightness-50" s>
+            <img
+              className="w-[100px] -translate-y-12 ml-32 "
+              src="https://res.cloudinary.com/dd4d48hwn/image/upload/v1674378986/360_F_363314304_O8iAzlMbUHy3HvRtdReqaxXR0aw279CM_qp9q8u.jpg"
+            />
+            <div className="text-white ml-4 text-2xl font-bold -translate-y-6 hover:text-pink-500 transition ease-in-out delay-150  hover:-translate-y-9  duration-300">
+              MEHMET ASLANTAŞ
+            </div>
+          </div>
         </motion.div>
       </div>
     </div>
