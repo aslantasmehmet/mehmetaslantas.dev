@@ -27,12 +27,12 @@ export default function Projects() {
       </div>
       {/* Projects */}
 
-      <div className="grid md:grid-cols-4 gap-4 grid-cols-1 sm:container sm:mx-auto ml-24 mt-9 mb-9 ">
+      <div className="grid md:grid-cols-4 gap-4 grid-cols-1 sm:container sm:mx-auto ml-12 md:mr-6 mt-9 mb-9 ">
         {projects.length &&
           projects.map((project) => (
             <div
               key={project.id}
-              className="grid grid-cols-1 gap-4 mb-4 border w-72 h-full md:mr-2 shadow md:hover:-translate-y-1 md:hover:scale-110  md:duration-300 md:hover:text-purple-500 "
+              className="grid grid-cols-1 gap-4 mb-4 border w-72 h-full shadow md:hover:-translate-y-1 md:hover:scale-110  md:duration-300 md:hover:text-purple-500 "
             >
               <div className="flex flex-col mb-6">
                 <img src={project.img} />
