@@ -15,7 +15,9 @@ module.exports = {
       animation: {
         disco: 'disco 1.5s linear infinite',
       },
+      
     },
+
   },
   plugins: [],
 }

@@ -4,6 +4,14 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
+@media (max-width:768px) {
+  .brightness-50 {
+    display: none;
+  }
+}
+
+
+
 
 body {
   margin: 0;
