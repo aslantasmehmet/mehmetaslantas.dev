@@ -39,7 +39,7 @@ export default function HeroSection() {
                 />
               </div>
               <div>
-                <button class=" mt-4 -translate-x-32 md:-translate-x-28 relative overflow-hidden rounded-lg bg-black px-20 py-6 ring-red-500/50 ring-offset-black will-change-transform focus:outline-none focus:ring-1 focus:ring-offset-2">
+                <button class=" mt-4 -translate-x-20 md:-translate-x-28 relative overflow-hidden rounded-lg bg-black px-20 py-6 ring-red-500/50 ring-offset-black will-change-transform focus:outline-none focus:ring-1 focus:ring-offset-2">
                   <span class="absolute inset-px z-10 grid place-items-center rounded-lg bg-black bg-gradient-to-t from-neutral-800 text-neutral-400">
                     Download CV
                   </span>

@@ -64,7 +64,7 @@ export default function Contact() {
               placeholder="Contact me!"
               required
             ></textarea>
-            <button class="ml-40 sm:ml-64 mb-8 w-96 mt-6 -translate-x-28 relative overflow-hidden rounded-lg bg-black px-20 py-6 ring-red-500/50 ring-offset-black will-change-transform focus:outline-none focus:ring-1 focus:ring-offset-2">
+            <button class="ml-32 md:ml-40 sm:ml-64 mb-8 w-80 md:w-96 mt-2 -translate-x-28 relative overflow-hidden rounded-lg bg-black px-20 py-6 ring-red-500/50 ring-offset-black will-change-transform focus:outline-none focus:ring-1 focus:ring-offset-2">
               <span class="absolute inset-px z-10 grid place-items-center rounded-lg bg-black bg-gradient-to-t from-neutral-800 text-neutral-400">
                 Send Email
               </span>
