@@ -29,19 +29,26 @@ export default function About() {
                 </span>
               </div>
               <div className="mx-4 my-2 md:mr-4 md:mt-8 font-semibold text-lg text-black border-b-4 border-purple-500 border-l-4 md:translate-y-48 ">
-                I am a Software Developer who is committed to self-development
-                and lifetime learning. I am always active and eager to learn new
-                skills. I believe this way I can consistently achieve better
-                results.
+                My passion for developing perfect user experiences and
+                high-performance backend systems is combined with modern
+                technologies. As a software developer specialized in
+                technologies like React Hooks and Redux, I am also an expert in
+                powerful backend technologies like Java and Spring Boot MVC. My
+                goal is always to develop applications that exceed user
+                expectations.
                 <br />
                 <br />
-                I try to utilize a creative approach to problem-solving while
-                working in a team or individually.
+                I am always open to learning new technologies and improving
+                myself. Additionally, I place great importance on teamwork. I
+                enjoy working to combine a perfect user interface with a strong
+                backend system and strive to build strong collaborations with
+                the people around me.
                 <br />
                 <br />
-                Also, communication is the most important key to making progress
-                in the software field and I believe that building strong
-                relationships with people delivers the best results.
+                My core principle is to develop applications that exceed user
+                expectations by combining modern technologies and powerful
+                backend systems. My openness to continuous self-improvement and
+                emphasis on teamwork are the keys to successful projects.
               </div>
             </div>
           </div>
